@@ -1,3 +1,4 @@
+# https://github.com/CrisDM32/EXAMEN-PROGRAMACION/edit/main/Examen%20Programacion.py#L1C0
 def stock_marca():  # Función que inicializa la opción 1 del menú
     contador = 0  # Contador que permite sumar la cantidad de stock
     marca_busqueda = input("Ingrese marca a consultar: ") 
